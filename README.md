@@ -1,8 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there!%20👋&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there!%20👋,%20I'm%20Daniel%20Fuentes&fontSize=45&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20Student&descAlignY=51&descAlign=72.5)
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer,;Computer+Science+Student,;iOS+Developer">
+  </a>
+</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+<br>
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=danfupo03)](https://github.com/danfupo03/leetcode-stats)
-
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=danfupo03)](https://github.com/danfupo03/github-contribution-stats/)
 
