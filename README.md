@@ -1,4 +1,14 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there!%20👋&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=danfupo03)](https://github.com/danfupo03/leetcode-stats)
+
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=danfupo03)](https://github.com/danfupo03/github-contribution-stats/)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danfupo03)](https://github.com/danfupo03/github-readme-activity-graph)
+
+![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
 
 <!--
 **danfupo03/danfupo03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
