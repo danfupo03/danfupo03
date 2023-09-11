@@ -47,9 +47,9 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=danfupo03&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danfupo03&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danfupo03&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danfupo03&theme=nord_bright)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=danfupo03&theme=dark)](https://git.io/streak-stats)<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danfupo03&theme=nord_bright)<br>
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=danfupo03)](https://github.com/danfupo03/github-contribution-stats/)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=danfupo03&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
