@@ -8,8 +8,8 @@
 
 ## <picture><img src = "https://github.com/danfupo03/danfupo03/blob/main/images/coding.gif" width = 70px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/danfupo03/danfupo03/blob/main/images/mariocoding.gif" width = 550px></picture>
-<picture> <img align="right" src="https://github.com/danfupo03/danfupo03/blob/main/images/terminal.gif" width = 350px></picture>
+<picture> <img align="left" src="https://github.com/danfupo03/danfupo03/blob/main/images/terminal.gif" width = 550px></picture>
+<picture> <img align="right" src="https://github.com/danfupo03/danfupo03/blob/main/images/mariocoding.gif" width = 350px></picture>
 <br>
 
 <!-- - A passionate Self-taught computer science student
