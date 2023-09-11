@@ -49,6 +49,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danfupo03&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danfupo03&theme=nord_bright)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=danfupo03&theme=dark)](https://git.io/streak-stats)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=danfupo03)](https://github.com/danfupo03/github-contribution-stats/)
 
 </div>
 
@@ -61,7 +62,7 @@
 
 <!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=danfupo03&theme=dark)](https://github.com/danfupo03/leetcode-stats) -->
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=danfupo03)](https://github.com/danfupo03/github-contribution-stats/)
+
 <!-- [![Danfupo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danfupo03&theme=react-dark)](https://github.com/danfupo03/github-readme-activity-graph) -->
 
 
