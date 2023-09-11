@@ -44,10 +44,15 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=danfupo03&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=danfupo03&theme=dark)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=danfupo03&theme=onestar)](https://github.com/danfupo03/github-profile-trophy)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=danfupo03)](https://github.com/danfupo03/leetcode-stats)
+<!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=danfupo03&theme=dark)](https://github.com/danfupo03/leetcode-stats) -->
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=danfupo03)](https://github.com/danfupo03/github-contribution-stats/)
+<!-- [![Danfupo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danfupo03&theme=react-dark)](https://github.com/danfupo03/github-readme-activity-graph) -->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=danfupo03&theme=nord_bright&)
 
 
 <!--
