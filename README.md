@@ -8,11 +8,11 @@
 
 ## <picture><img src = "https://github.com/danfupo03/danfupo03/blob/main/images/coding.gif" width = 70px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/danfupo03/danfupo03/blob/main/images/mariocoding.gif" width = 350px></picture>
+<picture> <img align="right" src="https://github.com/danfupo03/danfupo03/blob/main/images/mariocoding.gif" width = 550px></picture>
 <picture> <img align="right" src="https://github.com/danfupo03/danfupo03/blob/main/images/terminal.gif" width = 350px></picture>
 <br>
 
-- A passionate Self-taught computer science student
+<!-- - A passionate Self-taught computer science student
 - Currently learning Mobile development, especifically on iOS
 - I’m currently open for an Intern or a new job opportunity
 - Languages:
@@ -22,7 +22,7 @@
 - Field of interests:
   - Web Development
   - Mobile Development
-  - Game Development 
+  - Game Development  -->
 
 <br><br>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Technologies</b>
