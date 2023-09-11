@@ -26,25 +26,27 @@
 <br><br>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Technologies</b>
 
-<p align="center">
+<div align=center>
     
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=cpp,js,swift,ts,html,css,mysql,python,kotlin,r,xml&includeNames=true&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
-<br>
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,next,bootstrap,tailwind,express&includeNames=true&theme=carbon)](https://github.com/Jurredr/github-widgetbox)
-
-<br>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,next,bootstrap,express,tailwind&includeNames=true&theme=carbon)](https://github.com/Jurredr/github-widgetbox)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,npm,yarn,nodejs,prettier&includeNames=true&theme=viridescent)](https://github.com/Jurredr/github-widgetbox)
 
-<br>
-
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=vscode&includeNames=true&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
+</div>
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=danfupo03&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
+<div align=center>
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=danfupo03&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=danfupo03&theme=dark)](https://git.io/streak-stats)
+
+</div>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=danfupo03&theme=onestar)](https://github.com/danfupo03/github-profile-trophy)
 
 <!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=danfupo03&theme=dark)](https://github.com/danfupo03/leetcode-stats) -->
