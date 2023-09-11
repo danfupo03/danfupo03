@@ -42,8 +42,18 @@
 
 <div align=center>
 
+<div align="center">
+
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=danfupo03&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danfupo03&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danfupo03&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danfupo03&theme=nord_bright)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=danfupo03&theme=dark)](https://git.io/streak-stats)
+
+</div>
+
+
+
 
 </div>
 
@@ -54,15 +64,6 @@
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=danfupo03)](https://github.com/danfupo03/github-contribution-stats/)
 <!-- [![Danfupo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danfupo03&theme=react-dark)](https://github.com/danfupo03/github-readme-activity-graph) -->
 
-<div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danfupo03&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danfupo03&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danfupo03&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=danfupo03&theme=nord_bright&)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danfupo03&theme=nord_bright&utcOffset=8)
-
-</div>
 
 <!--
 **danfupo03/danfupo03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
