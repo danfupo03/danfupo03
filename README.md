@@ -10,7 +10,7 @@
 
 <!-- <picture> <img align="left" src="https://github.com/danfupo03/danfupo03/blob/main/images/terminal.gif" width = 550px></picture>
 <br> -->
-<picture> <img align="right" src="https://github.com/danfupo03/danfupo03/blob/main/images/mariocoding.gif" width = 350px></picture>
+<picture> <img align="right" src="https://github.com/danfupo03/danfupo03/blob/main/images/mariocoding.gif" width = 450px></picture>
 <br>
 
 - A passionate Self-taught computer science student
