@@ -34,7 +34,7 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,next,bootstrap,express,tailwind&includeNames=true&theme=carbon)](https://github.com/Jurredr/github-widgetbox)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,npm,yarn,nodejs,prettier&includeNames=true&theme=viridescent)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,npm,yarn,nodejs,prettier,jupyter&includeNames=true&theme=viridescent)](https://github.com/Jurredr/github-widgetbox)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=vscode&includeNames=true&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
