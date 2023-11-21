@@ -13,8 +13,8 @@
 <picture> <img align="right" src="https://github.com/danfupo03/danfupo03/blob/main/images/mariocoding.gif" width = 450px></picture>
 <br>
 
-- A passionate Self-taught computer science student
-- Currently learning Mobile development, especifically on iOS
+- A passionate Self-taught computer science student.
+- Currently learning Mobile development, especifically on iOS.
 - I’m currently open for an Intern or a new job opportunity
 - Languages:
   - Spanish: Native
@@ -26,17 +26,17 @@
   - Game Development 
 
 <br><br>
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Technologies</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Technologies</b>
 
 <div align=center>
     
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=cpp,js,swift,ts,html,css,mysql,python,java,r,csharp&includeNames=true&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=cpp,js,swift,html,css,mysql,python,ts,java,r,csharp&includeNames=true&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,next,bootstrap,express,tailwind&includeNames=true&theme=carbon)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,next,bootstrap,express,tailwind&includeNames=true&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,npm,yarn,nodejs,prettier,jupyter&includeNames=true&theme=viridescent)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,npm,yarn,nodejs,prettier,jupyter&includeNames=true&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=vscode&includeNames=true&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=vscode&includeNames=true&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
 </div>
 
