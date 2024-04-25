@@ -14,7 +14,7 @@
 <br>
 
 - A passionate Self-taught computer science student.
-- Currently learning Mobile development, especifically on iOS.
+- Currently learning Odoo.
 - I’m currently open for an Intern or a new job opportunity
 - Languages:
   - Spanish: Native
