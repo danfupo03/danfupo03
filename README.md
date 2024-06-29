@@ -14,7 +14,7 @@
 <br>
 
 - A passionate Self-taught computer science student.
-- Currently learning Odoo.
+- Currently learning Firebase.
 - I’m currently open for an Intern or a new job opportunity
 - Languages:
   - Spanish: Native
