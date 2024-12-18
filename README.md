@@ -14,7 +14,7 @@
 <br>
 
 - A passionate Self-taught computer science student.
-- Currently learning Firebase.
+- Currently learning PHP.
 - I’m currently open for an Intern or a new job opportunity
 - Languages:
   - Spanish: Native
@@ -30,7 +30,7 @@
 
 <div align=center>
     
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=cpp,js,swift,html,css,mysql,python,ts,java,r,csharp&includeNames=true&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=cpp,js,swift,html,css,php,mysql,python,ts,java,r,csharp&includeNames=true&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,next,bootstrap,express,tailwind&includeNames=true&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
