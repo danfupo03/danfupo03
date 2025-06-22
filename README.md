@@ -14,8 +14,8 @@
 <br>
 
 - A passionate Self-taught computer science student.
-- Currently learning PHP.
-- I’m currently open for an Intern or a new job opportunity
+- Currently learning Business Project Management.
+- I’m currently working in Cemex Switzerland Branch as an Business Process Management Intern.
 - Languages:
   - Spanish: Native
   - English: Proficient
