@@ -14,12 +14,13 @@
 <br>
 
 - A passionate Self-taught computer science student.
-- Currently learning Business Project Management.
-- I’m currently working in Cemex Switzerland Branch as an Business Process Management Intern.
+- Currently learning AI.
+- I’m currently working in Control y Medición as a Software Developer.
 - Languages:
   - Spanish: Native
   - English: Proficient
   - Italian: Advanced
+  - German: Basic
 - Field of interests:
   - Web Development
   - Mobile Development
