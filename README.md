@@ -31,11 +31,13 @@
 
 <div align=center>
     
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=cpp,js,swift,html,css,php,mysql,python,ts,java,r,csharp&includeNames=true&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=cpp,js,swift,html,css,php,mysql,python,ts,java,r,csharp,postgresql,json,dart&includeNames=true&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,next,bootstrap,express,tailwind&includeNames=true&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,next,bootstrap,express,tailwind,flutter&includeNames=true&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,npm,yarn,nodejs,prettier,jupyter&includeNames=true&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?libraries=tensorflow)](https://github.com/Jurredr/github-widgetbox)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,nodejs,prettier,jupyter,shopify,vercel,nginx&includeNames=true&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=vscode&includeNames=true&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
