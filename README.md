@@ -35,7 +35,7 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,next,bootstrap,express,tailwind,flutter&includeNames=true&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?libraries=tensorflow)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?libraries=tensorflow&includeNames=true&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,nodejs,prettier,jupyter,shopify,vercel,nginx&includeNames=true&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
