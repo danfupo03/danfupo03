@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there!%20👋,%20I'm%20Daniel%20Fuentes&fontSize=45&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20Student&descAlignY=51&descAlign=72.5)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there!%20👋,%20I'm%20Daniel%20Fuentes&fontSize=45&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20&descAlignY=51&descAlign=72.5)
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student,;Front-End+Developer,;iOS+Developer,;Game+Developer;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer,;Full-Stack+Developer,;Mobile+Developer,;Game+Developer;">
   </a>
 </p>
 
@@ -13,8 +13,8 @@
 <picture> <img align="right" src="https://github.com/danfupo03/danfupo03/blob/main/images/mariocoding.gif" width = 450px></picture>
 <br>
 
-- A passionate Self-taught computer science student.
-- Currently learning AI.
+- A passionate self-taught software engineer and a writer in his spare time.
+- Currently learning Flutter.
 - I’m currently working in Control y Medición as a Software Developer.
 - Languages:
   - Spanish: Native
